@@ -81,10 +81,14 @@ For players who wish to track Chips on Enemies manually (by using the Enemy Stat
 ## About
 This app was built using the Godot Engine. All of the code is open source and available here on this GitHub. Feel free to fork or steal to make this version better, or a better version entirely.
 
+
+## ChangeLog
+Nov 23 2024 - Added Chapter 3 and Chapter 4
+
+
 ### Future Updates
 
-Future Updates *will* include:
-- Addition of Chapter 3 and Chapter 4 
+
 
 Future Updates *may* include:
 - Support to change default Positions so that III and IV are on the top row
