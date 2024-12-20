@@ -64,6 +64,9 @@ Blue Cubes and Green Cubes can be adjusted by using the appropriate Spinboxes
 
 Chips can be added to enemies using their appropriate spinboxes. Chips are typically organized near the Stat they modify/affect.
 
+Mouse Scroll Wheel = Zoom
+Hold Right Mouse Button = Pan
+
 ### Enemy Actions
 
 Players can:
@@ -83,6 +86,7 @@ This app was built using the Godot Engine. All of the code is open source and av
 
 
 ## ChangeLog
+Dec 20 2024 - Bug fixes (Manual add creating wrong star value, +Health not working in position I), Added Camera Zoomo 
 Nov 23 2024 - Added Chapter 3 and Chapter 4
 
 
