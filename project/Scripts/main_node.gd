@@ -401,7 +401,7 @@ func _on_manual_add_enemy_button_pressed():
 	settings_container.hide()
 	# Get the selected enemy name and star amount from the dropdowns
 	var selected_enemy_name = dropdown_enemy_name.get_item_text(dropdown_enemy_name.get_selected_id())  # Get selected enemy name
-	var selected_star_amount = dropdown_star_amount.get_selected_id() + 1  # Assuming dropdown indices start from 0
+	var selected_star_amount = dropdown_star_amount.get_selected_id() + 0  # Assuming dropdown indices start from 0
 
 	
 

@@ -1,6 +1,7 @@
-[gd_scene load_steps=3 format=3 uid="uid://cnm2bm245cwrm"]
+[gd_scene load_steps=4 format=3 uid="uid://cnm2bm245cwrm"]
 
 [ext_resource type="Script" path="res://Scripts/main_node.gd" id="1_se47x"]
+[ext_resource type="Script" path="res://Scenes/camera_2d.gd" id="2_v0s68"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_7gbyq"]
 bg_color = Color(0.537011, 0.537011, 0.537011, 1)
@@ -134,7 +135,7 @@ autowrap_mode = 0
 offset_left = 568.0
 offset_top = 27.0
 offset_right = 896.0
-offset_bottom = 152.0
+offset_bottom = 54.0
 bbcode_enabled = true
 scroll_following = true
 
@@ -406,5 +407,9 @@ text = "Reset All"
 visible = false
 offset_right = 40.0
 offset_bottom = 40.0
+
+[node name="Camera2D" type="Camera2D" parent="."]
+anchor_mode = 0
+script = ExtResource("2_v0s68")
 
 [connection signal="toggled" from="SettingsDialog/SettingsContainer/Panel/MarginContainer/VBoxContainer/ChipToggle/HBoxContainer/Toggle" to="." method="_on_toggle_toggled"]
