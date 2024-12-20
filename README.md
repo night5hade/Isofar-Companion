@@ -87,8 +87,8 @@ This app was built using the Godot Engine. All of the code is open source and av
 
 
 ## ChangeLog
-Dec 20 2024 - Bug fixes (Manual add creating wrong star value, +Health not working in position I), Added Camera Zoomo 
-Nov 23 2024 - Added Chapter 3 and Chapter 4
+- Dec 20 2024 - Bug fixes (Manual add creating wrong star value, +Health not working in position I), Added Camera Zoomo 
+- Nov 23 2024 - Added Chapter 3 and Chapter 4
 
 
 ### Future Updates
