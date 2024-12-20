@@ -64,9 +64,9 @@ Blue Cubes and Green Cubes can be adjusted by using the appropriate Spinboxes
 
 Chips can be added to enemies using their appropriate spinboxes. Chips are typically organized near the Stat they modify/affect.
 
-Mouse Scroll Wheel = Zoom
-
-Hold Right Mouse Button = Pan
+### Controls ###
+- Mouse Scroll Wheel = Zoom
+- Hold Right Mouse Button = Pan
 
 ### Enemy Actions
 
